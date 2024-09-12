@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unorder_Order Dynamic_Array_Using_Template", "Unorder_Order Dynamic_Array_Using_Template\Unorder_Order Dynamic_Array_Using_Template.csproj", "{816ED2B9-AE66-4BDA-9FDA-448D85B915DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{816ED2B9-AE66-4BDA-9FDA-448D85B915DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{816ED2B9-AE66-4BDA-9FDA-448D85B915DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{816ED2B9-AE66-4BDA-9FDA-448D85B915DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{816ED2B9-AE66-4BDA-9FDA-448D85B915DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4B782ED-E9FE-4C10-8987-66A497CB0DC5}
+	EndGlobalSection
+EndGlobal
